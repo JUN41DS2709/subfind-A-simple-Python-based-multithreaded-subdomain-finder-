@@ -54,11 +54,11 @@ domain	Target domain
 
 ## Screenshots
 
-![nornmal](ss1.png/screenshots)
+![nornmal](screenshots/ss1.png)
 
 Verbose Output
 
-![verbose](ss2.png/screenshots)
+![verbose](screenshots/ss2.png)
 
 Project Structure
 ```
