@@ -1,5 +1,4 @@
-# Subdomain Finder
-
+# SUBF1ND 
 A simple Python-based multithreaded subdomain finder that discovers subdomains using a wordlist.
 
 ## Features
