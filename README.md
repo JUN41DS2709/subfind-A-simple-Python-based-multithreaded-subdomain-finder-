@@ -54,7 +54,11 @@ domain	Target domain
 
 ## Screenshots
 
+![](ss1.png/screenshots)
+
 Verbose Output
+
+![](ss2.png/screenshots)
 
 Project Structure
 ```
